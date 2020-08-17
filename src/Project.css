@@ -1,0 +1,107 @@
+.body{
+    margin:0;
+    padding: 0;
+    width:100vw;
+    max-width: 100%;
+}
+.slide{
+    margin:0;
+    padding: 0;
+    width:100vw;
+    max-width: 100%;
+}
+.project-title {
+  color: black;
+  text-align: center; 
+  font-size: 11rem;
+  text-transform: uppercase;
+}
+@media only screen and (max-width: 37.5em) {
+  .project-title{
+    font-size: 4.5rem;
+  }
+}
+.slide__figure {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    max-width: 100%;
+  }
+  .slide__figure-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .slide__figure-img {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .slide__img {
+      height: auto;
+      width: 25vw;
+      opacity: 1;
+      box-shadow: 1.5rem 1.5rem 2.5rem rgba(0, 0, 0, 0.25);}
+      @media only screen and (max-width: 75em) {
+        .slide__img {
+          height: 70vh;
+          width: auto; } }
+      @media only screen and (max-width: 56.25em) {
+        .slide__img {
+          width: 65vw;
+          height: auto; } }
+      @media only screen and (max-width: 37.5em) {
+        .slide__img {
+          width: 75vw;
+          height: auto; } }
+        .slide__img--landscape {
+        height: 40vh;
+        width: auto; }
+        @media only screen and (max-width: 75em) {
+          .slide__img--landscape {
+            width: 50vw;
+            height: auto; } }
+        @media only screen and (max-width: 56.25em) {
+          .slide__img--landscape {
+            height: 38vh;
+            width: auto; } }
+        @media only screen and (max-width: 37.5em) {
+          .slide__img--landscape {
+            height: 27vh;
+            width: auto; } }
+  .slide__content {
+    color:black;
+    display: flex;
+    flex-direction: column;
+    margin: 55vh auto 2rem;
+    width: 600px;
+    max-width: 80ch;
+    font-size: 2rem;
+    text-align: justify;
+  }
+  @media only screen and (max-width: 37.5em) {
+    .slide__content {
+      width: 85vw;} }
+  .slide__content p {
+    margin: 20px 0; }
+  .slide__title {
+    letter-spacing: 1px;
+    font-size: 2.4rem;
+    font-weight: 600; }
+  .slide__text {
+    font-size: 1.6rem;
+    font-weight: 400;
+    margin: 10px 0;
+  }
+  .slide__back {
+    opacity: 1;
+    background: none;
+    border: 0;
+    margin: 0;
+    height: 2.4rem;
+    width: 2.4rem;
+    font-size: 2.4rem; }
+    .slide__back a {
+      text-decoration: none; }
