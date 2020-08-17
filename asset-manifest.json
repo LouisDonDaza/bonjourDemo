@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bonjourDemo/static/css/main.4aadfecb.chunk.css",
+    "main.js": "/bonjourDemo/static/js/main.ff81b456.chunk.js",
+    "main.js.map": "/bonjourDemo/static/js/main.ff81b456.chunk.js.map",
+    "runtime-main.js": "/bonjourDemo/static/js/runtime-main.914a0256.js",
+    "runtime-main.js.map": "/bonjourDemo/static/js/runtime-main.914a0256.js.map",
+    "static/js/2.b08dd489.chunk.js": "/bonjourDemo/static/js/2.b08dd489.chunk.js",
+    "static/js/2.b08dd489.chunk.js.map": "/bonjourDemo/static/js/2.b08dd489.chunk.js.map",
+    "index.html": "/bonjourDemo/index.html",
+    "precache-manifest.80c3151319c0bc32019f343b3baee309.js": "/bonjourDemo/precache-manifest.80c3151319c0bc32019f343b3baee309.js",
+    "service-worker.js": "/bonjourDemo/service-worker.js",
+    "static/css/main.4aadfecb.chunk.css.map": "/bonjourDemo/static/css/main.4aadfecb.chunk.css.map",
+    "static/js/2.b08dd489.chunk.js.LICENSE.txt": "/bonjourDemo/static/js/2.b08dd489.chunk.js.LICENSE.txt",
+    "static/media/nat-4.jpg": "/bonjourDemo/static/media/nat-4.61bbf12a.jpg",
+    "static/media/travel-1.jpeg": "/bonjourDemo/static/media/travel-1.197f70f3.jpeg",
+    "static/media/travel-2.jpeg": "/bonjourDemo/static/media/travel-2.9d7e5bf9.jpeg",
+    "static/media/travel-3.jpeg": "/bonjourDemo/static/media/travel-3.a7423403.jpeg",
+    "static/media/travel-4.jpeg": "/bonjourDemo/static/media/travel-4.45deb3c1.jpeg",
+    "static/media/travel-5.jpeg": "/bonjourDemo/static/media/travel-5.aa69fcd0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.914a0256.js",
+    "static/js/2.b08dd489.chunk.js",
+    "static/css/main.4aadfecb.chunk.css",
+    "static/js/main.ff81b456.chunk.js"
+  ]
+}
